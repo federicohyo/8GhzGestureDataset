@@ -2,10 +2,9 @@
 
 Description of the experiment can be found here: https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/abstract <br/>
 
-## folders: 
-   /python/ </br>
-	8GhzRadarDatasetInspection.ipynb -> opens and plot the dataset </br>
-	uBrain_8GhzDatasetTrainTestQuantizeExport.ipybn -> train, test, quantize and export a Spiking Neural Network (SNN) that can be used with the µBrain neuromorphic processor <br/>	
+## python notebooks 
+	8GhzRadarDatasetInspection.ipynb -> an example demonstrating how to open and inspect the dataset </br>
+	uBrain_8GhzDatasetTrainTestQuantizeExport.ipybn -> an example demonstrating the traininig, testing, quantization and exporting an (ANN) compatible with the µBrain neuromorphic processor (ANN-to-SNN) rate-based mode <br/>	
 
 # Availability
 
