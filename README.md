@@ -1,4 +1,6 @@
-# 8GhzGestureDataset
+# 8Ghz radar-based gesture dataset
+
+Description of the experiment can be found here: https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/abstract <br/>
 
 Radar-based gesture dataset (IMEC's 8Ghz radar)
 
