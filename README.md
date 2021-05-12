@@ -12,7 +12,7 @@ folders: </br>
 We can share the dataset and the raw data upon request (too large to be uploaded here). </br>
 Please send an email to federico.corradi@imec.nl, I will be happy to share the data with you. </br>
 
-# Citations 
+# Citation 
 
 When using this dataset and resources please cite the original paper available </br>
 Stuijt, Jan, et al. "µBrain: an Event-Driven and Fully Synthesizable Architecture for Spiking Neural Networks." Frontiers in Neuroscience 15 (2021): 538.
