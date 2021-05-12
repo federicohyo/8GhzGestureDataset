@@ -1,11 +1,9 @@
-# 8Ghz radar-based gesture dataset
+# 8Ghz radar-based gesture dataset  (IMEC's 8Ghz radar)
 
 Description of the experiment can be found here: https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/abstract <br/>
 
-Radar-based gesture dataset (IMEC's 8Ghz radar)
-
-folders: </br>
- /python/ </br>
+## folders: 
+   /python/ </br>
 	8GhzRadarDatasetInspection.ipynb -> opens and plot the dataset </br>
 	uBrain_8GhzDatasetTrainTestQuantizeExport.ipybn -> train, test, quantize and export a Spiking Neural Network (SNN) that can be used with the µBrain neuromorphic processor <br/>	
 
